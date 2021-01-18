@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["main","Example of hello world in Rust By Víctor M. - CIRCE "]]});
