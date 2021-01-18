@@ -35,17 +35,51 @@ Repository for starting with Rust programming language.
 	settings.sh [Bash script for setting up cargo and rust environment]
 	README.md [Readme file]
 
-## Variables
+## Common Programming Concepts
+	
+	VARIABLES / VARIABLE TYPES
 
-	1. Variables are inmutable. But, what is the difference between "let mut" variable and a constant? You can't modify the value of contants with "mut" instance.
+		1. Variables are inmutable. But, what is the difference between "let mut" variable and a constant? You can't modify the value of contants with "mut" instance.
 
-	2. Shadowing. Re-use of previous declared variables (only using "let"). Program remembers the previous values.
+		2. Shadowing. Re-use of previous declared variables (only using "let"). Program remembers the previous values.
+
+		3. For check data types check https://doc.rust-lang.org/rust-by-example/types.html
+
+	FLOW CONTROL
+
+		1. Check the next link. https://doc.rust-lang.org/rust-by-example/flow_control.html 
+
+	ERROR HANDLING
+
+		1. Check the next link. https://doc.rust-lang.org/rust-by-example/error.html
+
+
 
 ## Some annotations about Rust language
 
 	1. For creating a local varible `let foo = bar;`. In Rust, variables are inmutable. So, for declaring a mutable variable we need to use the next line `let mut foo = bar;`.
 
 	2. The & indicates that this argument is a reference, which gives you a way to let multiple parts of your code access one piece of data without needing to copy that data into memory multiple times. References are a complex feature, and one of Rust’s major advantages is how safe and easy it is to use references. You don’t need to know a lot of those details to finish this program. For now, all you need to know is that like variables, references are immutable by default. Hence, you need to write &mut guess rather than &guess to make it mutable.
+
+	3. Example of cast from string to u32 `let guess: u32 = "42".parse().expect("Not a number!");`
+
+	4. Structures as variables. Example of declaration:
+
+		struct User {
+		    username: String,
+		    email: String,
+		    sign_in_count: u64,
+		    active: bool,
+		}
+
+	Example of use:
+
+		let user1 = User {
+        email: String::from("someone@example.com"),
+        username: String::from("someusername123"),
+        active: true,
+        sign_in_count: 1,
+    };
 
 
 ## Links 
