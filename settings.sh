@@ -4,4 +4,4 @@
 ## By Víctor M. - CIRCE
 
 source $HOME/.cargo/env
-echo "Cargo is ready!"
+echo $(cargo --version)
