@@ -1,0 +1,11 @@
+/home/victor/Rust/api-rest/target/debug/deps/libtime_macros_impl-6efcfa87cf7ffd90.so: /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/lib.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/date.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/ext.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/offset.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/mod.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/date.rs
+
+/home/victor/Rust/api-rest/target/debug/deps/time_macros_impl-6efcfa87cf7ffd90.d: /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/lib.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/date.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/ext.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/offset.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/mod.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/date.rs
+
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/lib.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/date.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/ext.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/offset.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/mod.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/date.rs:
