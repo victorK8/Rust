@@ -1,0 +1,12 @@
+/home/victor/Rust/api-rest/target/debug/deps/actix_router-7278151aa6aa5b2e.rmeta: /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/lib.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/de.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/path.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/resource.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/router.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/url.rs
+
+/home/victor/Rust/api-rest/target/debug/deps/libactix_router-7278151aa6aa5b2e.rlib: /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/lib.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/de.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/path.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/resource.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/router.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/url.rs
+
+/home/victor/Rust/api-rest/target/debug/deps/actix_router-7278151aa6aa5b2e.d: /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/lib.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/de.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/path.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/resource.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/router.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/url.rs
+
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/lib.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/de.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/path.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/resource.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/router.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/url.rs:
