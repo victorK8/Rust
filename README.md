@@ -91,3 +91,5 @@ Repository for starting with Rust programming language.
 	2. https://dev.to/gruberb/intro-to-web-programming-in-rust-for-nodejs-developers-lp [Web development on Rust]
 
 	3. https://jondot.medium.com/12-killer-rust-libraries-you-should-know-c60bab07624f [Some cool libs for Rust]
+
+	4. https://actix.rs/docs/getting-started/ [Framework for wweb development]
